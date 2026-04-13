@@ -14,7 +14,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> hello netflix jss</h2>
+      <h2> hello netflix Jss New</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
